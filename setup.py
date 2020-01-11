@@ -12,8 +12,8 @@ setuptools.setup(
     author="Max Lapan",
     author_email="max.lapan@gmail.com",
     license='GPL-v3',
-    description="PyTorch reinforcement learning framework",
-    version="0.6",
+    description="PyTorch reinforcement learning framework.",
+    version="0.6.1",
     packages=setuptools.find_packages(),
     install_requires=requirements,
 )
